@@ -1,0 +1,6 @@
+{
+  "name": "Wafa Inventory Scanner",
+  "description": "Real-time inventory tracking with barcode and QR scanner, offline sync, low-stock alerts, trend charts, and exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
